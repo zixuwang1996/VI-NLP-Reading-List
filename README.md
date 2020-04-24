@@ -3,7 +3,7 @@ Variational Inference for NLP - Reading List
 
 <h3 id="vi">Variational Inference - Theory</h3>
 
-* [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670). *arxiv:1601.00670*.
 
 <h3 id="vi">Variational Inference - NLP</h3>
 
