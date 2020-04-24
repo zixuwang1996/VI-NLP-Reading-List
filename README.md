@@ -19,4 +19,4 @@ Variational Inference for NLP - Reading List
 * [Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models](https://www.aclweb.org/anthology/P19-1200/). *ACL 2019*.
 * [Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models](https://papers.nips.cc/paper/9702-variational-mixture-of-experts-autoencoders-for-multi-modal-deep-generative-models). *NeurIPS 2019*.
 * [Latent-Variable Non-Autoregressive Neural Machine Translation with Deterministic Inference Using a Delta Posterior](https://arxiv.org/abs/1908.07181). *AAAI 2020*.
-* [MATHEMATICAL REASONING IN LATENT SPACE](https://openreview.net/forum?id=Ske31kBtPr). *ICLR 2020*.
+* [Mathematical Reasoning in Latent Space](https://openreview.net/forum?id=Ske31kBtPr). *ICLR 2020*.
