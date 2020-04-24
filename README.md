@@ -16,6 +16,7 @@ Variational Inference for NLP - Reading List
 * [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://www.aclweb.org/anthology/D16-1031/). *EMNLP 2016*.
 * [Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.html). *ICML 2016*.
 * [Latent Intention Dialogue Models](http://proceedings.mlr.press/v70/wen17a.html). *ICML 2017*.
+* [Variational Self-attention Model for Sentence Representation](https://arxiv.org/abs/1812.11559). *arxiv:1812.11559*.
 * [Auto-Encoding Variational Neural Machine Translation](https://www.aclweb.org/anthology/W19-4315/). *RepL4NLP 2019*.
 * [Better Exploiting Latent Variables in Text Modeling](https://www.aclweb.org/anthology/P19-1553/). *ACL 2019*.
 * [Implicit Deep Latent Variable Models for Text Generation](https://www.aclweb.org/anthology/D19-1407/). *EMNLP-IJCNLP 2019*.
