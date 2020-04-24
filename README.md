@@ -1,7 +1,11 @@
 # VI-NLP-Reading-List
 Variational Inference for NLP - Reading List
 
-<h3 id="vi">Variational Inference</h3>
+<h3 id="vi">Variational Inference - Theory</h3>
+
+* [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+
+<h3 id="vi">Variational Inference - NLP</h3>
 
 * [Generating Sentences from a Continuous Space](https://www.aclweb.org/anthology/K16-1002/). *CoNLL 2016*.
 * [Language as a Latent Variable: Discrete Generative Models for Sentence Compression](https://www.aclweb.org/anthology/D16-1031/). *EMNLP 2016*.
