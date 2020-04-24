@@ -4,6 +4,10 @@ Variational Inference for NLP - Reading List
 <h3 id="vi">Variational Inference - Theory</h3>
 
 * [Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670). *arxiv:1601.00670*.
+* [Variational Dropout and the Local Reparameterization Trick](https://papers.nips.cc/paper/5666-variational-dropout-and-the-local-reparameterization-trick). *NIPS 2015*.
+
+<h3 id="vi">Variational Inference - Tutorial</h3>
+* [Variational Inference for Structured NLP Models](http://nlp.cs.berkeley.edu/tutorials/variational-tutorial-slides.pdf). *ACL 2013*.
 
 <h3 id="vi">Variational Inference - NLP</h3>
 
